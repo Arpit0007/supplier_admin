@@ -1,0 +1,9 @@
+
+local_url : https://192.168.0.120/authenticator/
+.....................................................................
+db : authenticator
+username : root
+password: 
+
+.......................................................................
+server_url : http://ansara.in/authenticator
